@@ -1,4 +1,5 @@
 ============================== Project Overview =======================================
+
 This project serves as a comprehensive guide to core Java concepts, focusing on Object-Oriented Programming (OOP) principles. It is designed for Java developers and students who wish to solidify their understanding of Java's foundational features. The project includes practical examples and implementations of key OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction, along with other essential Java functionalities.
 
 *Classes and Objects: Demonstrates the creation and use of classes and objects.
@@ -22,4 +23,5 @@ Additional Features
 ****Annotations: Custom annotation creation and usage examples.
 Java 8 Features: Lambda expressions, functional interfaces, and Stream API usage.
 Unit Testing: Incorporates JUnit for writing and executing test cases.
+
 =============================== Thanks for Support ======================================
